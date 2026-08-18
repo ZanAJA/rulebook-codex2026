@@ -1,16 +1,16 @@
 ---
-title: Codex 2023
+title: Codex 2026
 layout: home
 nav_order: 1
 ---
 
-# Codex 2023
+# Codex 2026
 
 CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan  dan mempersiapkan mahasiswa Filkom UB untuk lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
 
 ## Table of Contents
 
-- [Codex 2023](#codex-2023)
+- [Codex 2026](#codex-2026)
   - [Table of Contents](#table-of-contents)
   - [What Will Be Held?](#what-will-be-held)
   - [Event Details](#event-details)
@@ -20,7 +20,7 @@ CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga
 
 ## What Will Be Held?
 
-Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2023.
+Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2026.
 
 1. _Workshop_, yaitu kegiatan yang akan mempersiapkan mahasiswa untuk mengikuti kompetisi _competitive programming_ dan _capture the flag_. _Workshop_ ini akan membahas tentang gambaran umum lomba, materi lomba, dan _hands-on_ terhadap _challenges_ dan pembahasannya.
 2. _Competition_, yaitu perlombaan di bidang _competitive programming_ dan _capture the flag_. Peserta _workshop_ dapat mengimplementasikan ilmu yang didapat dengan berkompetisi dalam perlombaan ini dan memenangkan total hadiah jutaan rupiah.
@@ -32,7 +32,7 @@ Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2023.
 
 ## Why Should I Join?
 
-Berkaca selama tahun 2023, kompetisi yang biasa diadakan di lingkup Filkom UB adalah kompetisi di bidang kreatif (_art_) dan olahraga (_sports_). Hal ini merupakan hal yang positif, karena dapat menjadi sarana mahasiswa mengembangkan _skill_ yang mereka miliki di luar bidang perkuliahan mereka. Sayangnya, kompetisi di luar bidang tersebut, terutama yang memang berkaitan dengan bidang perkuliahan mereka, belum pernah dilaksanakan. Oleh karena itu, kami mengadakan kegiatan _workshop_ dan _competition_ untuk memperseru dunia perlombaan dalam lingkup Filkom UB.
+Berkaca selama tahun 2026, kompetisi yang biasa diadakan di lingkup Filkom UB adalah kompetisi di bidang kreatif (_art_) dan olahraga (_sports_). Hal ini merupakan hal yang positif, karena dapat menjadi sarana mahasiswa mengembangkan _skill_ yang mereka miliki di luar bidang perkuliahan mereka. Sayangnya, kompetisi di luar bidang tersebut, terutama yang memang berkaitan dengan bidang perkuliahan mereka, belum pernah dilaksanakan. Oleh karena itu, kami mengadakan kegiatan _workshop_ dan _competition_ untuk memperseru dunia perlombaan dalam lingkup Filkom UB.
 
 Pemrograman merupakan hal yang utama di bidang Ilmu Komputer. Oleh karena itu, kami ingin mengapresiasi mahasiswa-mahasiswa yang memiliki bakat di bidang pemrograman dengan mengadakan kompetisi _competitive programming_ dalam lingkup Filkom UB, sehingga mahasiswa tersebut dapat menorehkan prestasi dalam kompetisi ini. Meskipun demikian, mahasiswa yang ingin memperdalam _skill_ dalam bidang pemrograman juga dapat mengikuti kegiatan ini, karena _skill_ pemrograman yang baik akan menjadi dasar yang kuat dalam berkarir di bidang apapun nantinya. _Software engineer_, _data scientist_, _IoT engineer_. Apapun itu, akan sangat membantu jika kalian mempunyai _skill_ pemrograman yang kuat.
 
@@ -48,5 +48,5 @@ Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB da
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [081237859071](https://wa.me/081237859071) (Lorem)
+- 👤[WA]: [087822036868](https://wa.me/087822036868) (Ipsum)
