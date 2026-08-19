@@ -26,7 +26,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Ketentuan
 
-1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2024, 2025, atau 2026.
+1. Peserta merupakan mahasiswa aktif Universitas Brawijaya angkatan 2024, 2025, atau 2026.
 2. Peserta mengikuti kompetisi secara individu dan dilarang bekerja sama dengan peserta lain.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.
 4. Panitia berhak mendiskualifikasi peserta yang melakukan pelanggaran tanpa pemberitahuan sebelumnya.
@@ -35,8 +35,8 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2026.
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023).
+1. Periode pendaftaran lomba ada di tanggal 28 September - 2 Oktober 2026.
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -44,10 +44,10 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 27 Oktober - 10 November 2026 | Pendaftaran       | Dilakukan pada URL di atas    |
-| 11 - 17 November 2026         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 17 - 18 November 2026         | Penulisan Writeup | Dilakukan secara pribadi      |
-| 19 November 2026              | Pengumuman        | Dilakukan secara online       |
+| tak tahu | Pendaftaran       | Dilakukan pada URL di atas    |
+| 28 September - 2 Oktober 2026         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 2 - 3 Oktober 2026         | Penulisan Writeup | Dilakukan secara pribadi      |
+| tak tahu              | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
@@ -55,7 +55,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2026 pukul 09:00 WIB hingga 17 November 2026 pukul 17:00 WIB.
+3. Kompetisi akan dilakukan selama 7 hari dari tanggal 28 September 2026 pukul 09:00 WIB hingga 2 Oktober 2026 pukul 17:00 WIB.
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 18 November 2026 pukul 23:59 WIB.
 
