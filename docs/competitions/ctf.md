@@ -20,6 +20,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
     - [Kompetisi](#kompetisi)
   - [Teknis Lomba](#teknis-lomba)
     - [Sistem Penilaian](#sistem-penilaian)
+    - [Penggunaan AI](#penggunaan-ai)
     - [Ketentuan Diskualifikasi](#ketentuan-diskualifikasi)
     - [**Penghargaan**](#penghargaan)
   - [Narahubung](#narahubung)
@@ -72,6 +73,14 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 7. Kesalahan dan ketidaksesuaian substansi dalam penjabaran langkah
 pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentuan pemenang lomba.
 
+### Penggunaan AI
+
+1. Penggunaan AI berbasis chat interface diperbolehkan sebagai alat bantu pembelajaran, referensi, analisis, atau diskusi selama tidak menyelesaikan challenge secara mandiri.
+2. Penggunaan AI Agent, AI CLI, autonomous agent, workflow otomatis, atau sistem berbasis AI yang dapat menyelesaikan challenge secara mandiri tanpa intervensi signifikan peserta tidak diperbolehkan.
+3. Peserta dilarang memasukkan challenge, file challenge, maupun konteks soal secara utuh ke dalam AI untuk memperoleh solusi atau flag secara langsung.
+4. Apabila menggunakan bantuan AI dalam penyelesaian challenge, peserta wajib mencantumkan sumber AI dan riwayat percakapan yang relevan pada referensi write-up.
+5. Bantuan AI yang menghasilkan flag secara langsung, exploit final secara penuh, atau write-up final tanpa proses peserta dapat dianggap sebagai pelanggaran.
+
 ### Ketentuan Diskualifikasi
 
 1. Peserta yang terindikasi melakukan kecurangan, baik bekerja sama dengan pihak lain (peserta lain, pembimbing, teman, anggota komunitas/forum,dan sebagainya) maupun memberikan jawaban ke peserta lain dalam bentuk apapun.
@@ -95,11 +104,11 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 | Honorable Mention 1 | Rp50.000 + Sertifikat  |
 | Honorable Mention 2 | Rp50.000 + Sertifikat  |
 
-Catatan: Khusus untuk peserta angkatan 2021, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [081237859071](https://wa.me/085811215084) (Aldin)
+- 👤[WA]: [087822036868](https://wa.me/085811215084) (Izyan)
